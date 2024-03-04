@@ -43,6 +43,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
-
-![snake gif](https://github.com/kaio-keinner/kaio-keinner/blob/output/github-contribution-grid-snake.svg)
