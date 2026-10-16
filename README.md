@@ -1,5 +1,3 @@
-Aqui está uma versão mais limpa, moderna e com inglês revisado:
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,8E71FE&height=180&section=header&text=Kaio%20Keinner&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
